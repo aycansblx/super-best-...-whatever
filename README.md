@@ -6,7 +6,7 @@
 
 ~ gs.js: game code
 
-~ gs-min.js: minized game code
+~ gs-min.js: minimized game code
 
 ~ ss.png: images
 
